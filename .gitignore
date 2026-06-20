@@ -1,0 +1,6 @@
+*
+!.gitignore
+!paper-*/
+!paper-*/**
+paper-_references/journals/
+paper-_references/prompts/
